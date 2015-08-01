@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 # Chris Wike 2015
-# An assembler for a "toy" processor of my devising,
-# 
+# An assembler for a "toy" processor of my devising
+
 import sys
 import Parser
 
